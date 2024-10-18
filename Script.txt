@@ -1,0 +1,61 @@
+Script
+
+1
+I'm Bernard Poh, 1st year undergraduate UCL student in the MEng programme and this is my presentation
+
+
+2
+The concept of the internet of things has existed for a very long time, since the 1980s. However, recently it is being considered increasingly viable due to advances in technology, including in making computers smaller and faster as well as the increasing prevalence of sensors already being incorporated in our technologies. 
+
+3
+The internet of things has a long and fancy definition but to understand what it is, it would be better to take a look at its uses in the real world. In simple terms, the internet of things is a way of making more intelligent automated decisions using information gathered and shared by other devices
+
+4
+The internet of things is relevant is a huge range of industries. 
+Healthcare
+- Fitbit electronic wristbands can monitor blood pressure and heart rate
+- Manage chronic diseases leading to better patient outcomes
+- automation reduces workload for staff, better usage of time
+
+Manufacturing
+- Digital control systems to automate process controls, making faster and better and more reiable decisions
+- optimise energy consumption taking into account more metrics and statistical data
+
+Agriculture
+- take informed decisions to improve quality and quantity, minimize risk and waste, and reduce the effort required to manage crops
+
+Military
+- AI-based life target tracking system
+- devices enable soldiers to communicate surveillance and mission data to nearby military vehicles, aircraft
+
+5
+Embedded devices like the esp32 and arduino are important pieces of technology that enable the internet of things
+
+6 
+The technology behind the internet of things relies on the protocol stack which allows devices to communicate with each other seamlessly and securely
+
+The protocols provide layers of abstraction upon which allow software to be built without being locked into using specific pieces of hardware and allows people to program at a higher level
+
+7
+However, the internet of things has its problems. 
+
+Security is a huge concern due to the number of connected devices and the limitations of communications security technology
+
+Many integrated computers lack the processing power of mobile phones or laptops, making them much less able to implement basic security measures such as encryption or firewalls
+
+8
+Yeah these things can be hacked pretty easily
+
+9
+additionally, these things are reliant on continiual support and updates and can be disabled on purpose either due to lack of funding or maliciously
+
+10 
+I have sources!
+
+11
+The clock is 1 hour behind because it displays the time in UTC
+
+12
+I downloaded the clock app from the github page for the TFT_eSPI
+
+
